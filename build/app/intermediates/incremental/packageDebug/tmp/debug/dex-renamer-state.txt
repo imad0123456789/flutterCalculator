@@ -1,4 +1,4 @@
-#Fri Mar 03 14:39:04 CET 2023
-base.0=C\:\\Users\\emad_\\MobileProgramming\\fluttercalcolator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Fri Mar 03 18:20:48 CET 2023
+base.0=C\:\\Users\\emad_\\MobileProgramming\\fluttercalcolator\\flutterCalculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

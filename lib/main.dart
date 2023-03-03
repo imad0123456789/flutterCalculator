@@ -111,6 +111,7 @@ class _CalculatorAppState extends State<CalculatorApp> {
       }
     } else{
       res = int.parse(textToDisplay + btnVal).toString();
+      stack.push(int.parse(textToDisplay + btnVal));
     }
 
     setState(() {
